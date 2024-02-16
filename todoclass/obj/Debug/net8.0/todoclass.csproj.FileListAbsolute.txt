@@ -1,0 +1,12 @@
+C:\Users\abhishek\Desktop\Todo\TodoAPI\todoclass\bin\Debug\net8.0\todoclass.deps.json
+C:\Users\abhishek\Desktop\Todo\TodoAPI\todoclass\bin\Debug\net8.0\todoclass.dll
+C:\Users\abhishek\Desktop\Todo\TodoAPI\todoclass\bin\Debug\net8.0\todoclass.pdb
+C:\Users\abhishek\Desktop\Todo\TodoAPI\todoclass\obj\Debug\net8.0\todoclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhishek\Desktop\Todo\TodoAPI\todoclass\obj\Debug\net8.0\todoclass.AssemblyInfoInputs.cache
+C:\Users\abhishek\Desktop\Todo\TodoAPI\todoclass\obj\Debug\net8.0\todoclass.AssemblyInfo.cs
+C:\Users\abhishek\Desktop\Todo\TodoAPI\todoclass\obj\Debug\net8.0\todoclass.csproj.CoreCompileInputs.cache
+C:\Users\abhishek\Desktop\Todo\TodoAPI\todoclass\obj\Debug\net8.0\todoclass.sourcelink.json
+C:\Users\abhishek\Desktop\Todo\TodoAPI\todoclass\obj\Debug\net8.0\todoclass.dll
+C:\Users\abhishek\Desktop\Todo\TodoAPI\todoclass\obj\Debug\net8.0\refint\todoclass.dll
+C:\Users\abhishek\Desktop\Todo\TodoAPI\todoclass\obj\Debug\net8.0\todoclass.pdb
+C:\Users\abhishek\Desktop\Todo\TodoAPI\todoclass\obj\Debug\net8.0\ref\todoclass.dll

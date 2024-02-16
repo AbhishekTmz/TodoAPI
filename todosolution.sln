@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoclass", "todoclass\todoclass.csproj", "{D2B07B90-1EA1-4AC6-AA85-6FDF3AB6BF02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todounit", "todounit\todounit.csproj", "{B6295B04-3B8B-42D6-AFEC-996D6B4B608E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todocontroller", "todocontroller\todocontroller.csproj", "{A45A6222-2B51-4387-9DAB-05F3DA01DAE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2B07B90-1EA1-4AC6-AA85-6FDF3AB6BF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B07B90-1EA1-4AC6-AA85-6FDF3AB6BF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B07B90-1EA1-4AC6-AA85-6FDF3AB6BF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B07B90-1EA1-4AC6-AA85-6FDF3AB6BF02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6295B04-3B8B-42D6-AFEC-996D6B4B608E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6295B04-3B8B-42D6-AFEC-996D6B4B608E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6295B04-3B8B-42D6-AFEC-996D6B4B608E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6295B04-3B8B-42D6-AFEC-996D6B4B608E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A45A6222-2B51-4387-9DAB-05F3DA01DAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45A6222-2B51-4387-9DAB-05F3DA01DAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45A6222-2B51-4387-9DAB-05F3DA01DAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45A6222-2B51-4387-9DAB-05F3DA01DAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
